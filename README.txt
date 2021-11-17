@@ -1,0 +1,1 @@
+Simple Snake game, play with arrow keys and have fun!
